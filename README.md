@@ -40,9 +40,9 @@ To get started with this project, follow these steps:
 
 Here are some screenshots of the application:
 
-![Animated Container](assets/ascreenshots/image01.png)
-![Animated Container](assets/ascreenshots/image02.png)
-![Animated Container](assets/ascreenshots/image03.png)
+![Animated Container](assets/screenshots/image01.png)
+![Animated Container](assets/screenshots/image02.png)
+![Animated Container](assets/screenshots/image03.png)
 
 ## License
 
